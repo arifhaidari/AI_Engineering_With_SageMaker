@@ -13,3 +13,6 @@ News categorizer:
 provide the context of the news and it will categorize them as sport, entertainment and so on.
 Dataset for the project:
 https://archive.ics.uci.edu/dataset/359/news+aggregator
+
+Modeling:
+I used MultinomialNB and Multiclass LSTM
