@@ -66,6 +66,9 @@ The dataset is sourced from the [UCI News Aggregator Dataset](https://archive.ic
 - **Scikit-learn**: For machine learning modeling.
 - **Pandas**: For data manipulation and preprocessing.
 - **Joblib**: For model serialization.
+- **nltk**: ...
+- **tensorflow**: ...
+- **keras**: ...
 - **TF-IDF**: For text vectorization and feature extraction.
 
 ---
